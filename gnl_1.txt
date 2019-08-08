@@ -1,0 +1,3 @@
+The getdelim() function reads a line from stream, delimited by the character
+delimiter. The getline() function is equivalent to getdelim() with the new-
+line character as the delimiter. The delimiter character is included.
